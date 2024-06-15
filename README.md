@@ -32,3 +32,9 @@ the example shows:
 
 ![alt text](image.png)
 
+
+主要参考文献：
+
+Meller, A., Ward, M., Borowsky, J. et al. Predicting locations of cryptic pockets from single protein structures using the PocketMiner graph neural network. Nat Commun 14, 1177 (2023). https://doi.org/10.1038/s41467-023-36699-3
+
+Guan, Jiaqi, et al. "3d equivariant diffusion for target-aware molecule generation and affinity prediction." arXiv preprint arXiv:2303.03543 (2023).
