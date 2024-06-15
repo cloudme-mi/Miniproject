@@ -14,14 +14,12 @@ This command will generate a probable pocket as pocket.pdb according to pocketmi
 
 ![alt text](image-1.png)
 
-The uni-transformer modle used for sampling is retrained by:
+The uni-transformer model used for sampling is trained on crossdock2020 dataset.
 ```
 python scripts/train_diffusion.py configs/training.yml
 ```
 
-
-
-To sample molecules in the pocket using base model targetdiff（transformer model）, in pocketgen folder(`cd pocketgen`), run:
+To sample molecules in the pocket using base model targetdiff（transformer）, in pocketgen folder(`cd pocketgen`), run:
 
 
 ```
